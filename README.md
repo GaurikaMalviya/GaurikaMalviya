@@ -3,11 +3,11 @@
 I'm Gaurika,a Computer Science student exploring coding and problem-solving
 <br>
 <br>
-💻 Tech Stack: JAVA,HTML,C,C++
+💻 Tech Stack: JAVA,HTML,C,C++,HTML,CSS,JAVASCRIPT,REACT.JS,NODE.JS,PYTHON
 <br>
-🚀 Interests:Web Development, Cybersecurity 
+🚀 Interests:Java programming, C++ programming , MERN Stack , Artificial Intelligence ,Agentic AI, Machine Learning, Deep Learning
 <br>
-📚 Currently Learning:CSS
+📚 Currently Learning:REACT AND NODE 
 <br>
 📫Find me on Linkedin:https://www.linkedin.com/in/gaurika-malviya-p220806
 <br>
