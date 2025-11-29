@@ -7,7 +7,7 @@ I'm Gaurika,a Computer Science student exploring coding and problem-solving
 <br>
 🚀 Interests:Java programming, C++ programming , MERN Stack , Artificial Intelligence ,Agentic AI, Machine Learning, Deep Learning
 <br>
-📚 Currently Learning:REACT AND NODE 
+📚 Currently Learning:PYTHON
 <br>
 📫Find me on Linkedin:https://www.linkedin.com/in/gaurika-malviya-p220806
 <br>
